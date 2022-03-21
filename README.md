@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Herdis Haerusalam
 - 👀 I’m interested in Data Science and Blockchain Tech
 - 🌱 I’m currently learning blockchain and web3
-- 💞️ I’m looking to collaborate on dapp
 - 📫 How to reach me @herdissam
 
 <!---
