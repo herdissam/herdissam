@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Herdis Haerusalam
-- 👀 I’m interested in Data Science and Blockchain Tech
+- 👀 I’m work in Fintech and learing quant finance
 - 🌱 I’m currently learning blockchain and web3
 - 📫 How to reach me @herdissam
 
