@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Herdis Haerusalam
-- 👀 I’m work in Fintech and part time trader
-- 🌱 I’m currently learning blockchain and web3
 - 📫 How to reach me @herdissam
 
 <!---
